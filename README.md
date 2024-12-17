@@ -37,7 +37,7 @@ Microsoft Power BI
   * 100 % of the orders with low priority have been ordered through standard class.
   * APAC markets have highest shipping cost, followed by EU and US.
 
-
+Its was Great Project to enhance my skills.
 
 
 
